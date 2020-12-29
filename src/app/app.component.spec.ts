@@ -1,31 +1,42 @@
-import { TestBed } from '@angular/core/testing';
 import { AppComponent } from './app.component';
+import { TestBed } from '@angular/core/testing';
 
-describe('AppComponent', () => {
-  beforeEach(async () => {
-    await TestBed.configureTestingModule({
-      declarations: [AppComponent],
-    }).compileComponents();
+describe('METHOD: getWelcomingMessage', () => {
+  let actualValue;
+  let expectedValue;
+  let fakeUserName: string;
+  let componentUnderTest: AppComponent;
+
+  Given(() => {
+    TestBed.configureTestingModule({
+      providers: [AppComponent],
+    });
+
+    componentUnderTest = TestBed.inject(AppComponent);
   });
 
-  it('should create the app', () => {
-    const fixture = TestBed.createComponent(AppComponent);
-    const app = fixture.componentInstance;
-    expect(app).toBeTruthy();
+  When(() => {
+    actualValue = componentUnderTest.getWelcomingMessage(fakeUserName);
   });
 
-  it(`should have as title 'antoniosantos'`, () => {
-    const fixture = TestBed.createComponent(AppComponent);
-    const app = fixture.componentInstance;
-    expect(app.title).toEqual('antoniosantos');
+  describe('user name is Bonnie', () => {
+    Given(() => {
+      componentUnderTest.year = '2020';
+      fakeUserName = 'Bonnie';
+    });
+    Then(() => {
+      expectedValue = 'Bonnie 2020';
+      expect(actualValue).toEqual(expectedValue);
+    });
   });
 
-  it('should render title', () => {
-    const fixture = TestBed.createComponent(AppComponent);
-    fixture.detectChanges();
-    const compiled = fixture.nativeElement;
-    expect(compiled.querySelector('.content span').textContent).toContain(
-      'antoniosantos app is running!'
-    );
+  describe('user name is Alyssa', () => {
+    Given(() => {
+      fakeUserName = 'Alyssa';
+    });
+    Then(() => {
+      expectedValue = 'Alyssa 2021';
+      expect(actualValue).toEqual(expectedValue);
+    });
   });
 });

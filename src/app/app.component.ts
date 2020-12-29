@@ -6,5 +6,9 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css'],
 })
 export class AppComponent {
-  title = 'antoniosantos';
+  year = '2021';
+
+  getWelcomingMessage(userName: string): string {
+    return `${userName} ${this.year}`;
+  }
 }
