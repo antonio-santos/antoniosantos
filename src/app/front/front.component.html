@@ -1,0 +1,12 @@
+<div>
+  <div *ngIf="!isListVisible()">
+    <h4>NO LLAMAS!</h4>
+  </div>
+
+  <ng-container *ngIf="isListVisible()">
+    <div *ngFor="let llama of llamas">
+      {{ llama.name }}
+      <div><button (click)="goToLlamaPage(llama.id)">Go to Page</button></div>
+    </div>
+  </ng-container>
+</div>
