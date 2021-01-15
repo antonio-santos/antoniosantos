@@ -1,0 +1,95 @@
+{
+  "id": "login",
+  "copy": [
+    {
+      "id": "loginTitle",
+      "es-ES": "Únete a la plataforma",
+      "pt-PT": "Entrar na plataforma"
+    },
+    {
+      "id": "emailLabel",
+      "es-ES": "Email",
+      "pt-PT": "Email"
+    },
+    {
+      "id": "emailRequired",
+      "es-ES": "El email es obligatorio.",
+      "pt-PT": "Email é obrigatório."
+    },
+    {
+      "id": "emailInvalid",
+      "es-ES": "Email no válido.",
+      "pt-PT": "Email inválido."
+    },
+    {
+      "id": "passwordLabel",
+      "es-ES": "Contraseña",
+      "pt-PT": "Palavra-passe"
+    },
+    {
+      "id": "passwordRequired",
+      "es-ES": "La contraseña es obligatoria.",
+      "pt-PT": "Palavra-passe é obrigatória."
+    },
+    {
+      "id": "rememberMeCheckbox",
+      "es-ES": "Recordar datos de acceso",
+      "pt-PT": "Lembrar dados de acesso"
+    },
+    {
+      "id": "loginButton",
+      "es-ES": "Entrar",
+      "pt-PT": "Entrar"
+    },
+    {
+      "id": "recoverPasswordLink",
+      "es-ES": "¿Ha olvidado su contraseña?",
+      "pt-PT": "Esqueceu a sua palavra-passe?"
+    },
+    {
+      "id": "loginByEmailLabel",
+      "es-ES": "Inicie sesión por correo electrónico",
+      "pt-PT": "Entrar pelo email"
+    },
+    {
+      "id": "loginWithCompanyNIFLabel",
+      "es-ES": "Ingrese con CIF de compañía",
+      "pt-PT": "Entrar com NIF da empresa"
+    },
+    {
+      "id": "loginInvalidError",
+      "es-ES": "El correo electrónico de un usuario y / o contraseña no válidos. Por favor, asegúrese de que los datos introducidos.",
+      "pt-PT": "Email de utilizador ou palavra-passe inválidos. Por favor, verifique os dados introduzidos."
+    },
+    {
+      "id": "loginUnavailableError",
+      "es-ES": "Servicio no disponible. Inténtelo de nuevo más tarde.",
+      "pt-PT": "Serviço indisponível. Tente novamente mais tarde."
+    },
+    {
+      "id": "blockedUserErrorLabel",
+      "es-ES": "Su acceso fue suspendido / cancelado por no cumplir con los criterios de asociación con Liqui.do",
+      "pt-PT": "O seu acesso foi suspenso/cancelado por não cumprir os critérios de parceria com a Liqui.do"
+    },
+    {
+      "id": "inactiveUserErrorLabel",
+      "es-ES": "Su acceso ha sido bloqueado. Póngase en contacto con el administrador de la cuenta de su empresa",
+      "pt-PT": "O seu acesso foi bloqueado. Por favor entre em contato com o administrador da conta da sua empresa"
+    },
+    {
+      "id": "pendingUserErrorLabel",
+      "es-ES": "Aún no ha validado su cuenta de correo electrónico, vaya a su correo electrónico y haga clic en el enlace que le enviamos",
+      "pt-PT": "Ainda não validou a sua conta de email, por favor vá ao seu e-mail e clique no link que lhe enviámos"
+    },
+    {
+      "id": "signInSeoTitleLabel",
+      "es-ES": "Entra en la plataforma - Liqui.do",
+      "pt-PT": "Entrar na Plataforma - Liqui.do"
+    },
+    {
+      "id": "signInSeoDescriptionLabel",
+      "es-ES": "¿Ya es nuestro socio o cliente? Entra en el portal Liqui.do y accede a tu cuenta.",
+      "pt-PT": "Já é nosso parceiro ou cliente? Faça login no portal da Liqui.do e aceda à sua conta."
+    }
+  ]
+}

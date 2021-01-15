@@ -1,0 +1,366 @@
+[
+  {
+    "old": "submissao-validacao-e-pagamento-da-fatura",
+    "new": "submissao-validacao-pagamento-da-fatura-do-equipamento"
+  },
+  {
+    "old": "submeter-metodo-de-pagamento-do-cliente",
+    "new": "como-simular-um-renting"
+  },
+  {
+    "old": "submeter-iban-para-pagamento",
+    "new": "submissao-validacao-pagamento-da-fatura-do-equipamento"
+  },
+  {
+    "old": "submeter-fatura",
+    "new": "submissao-validacao-pagamento-da-fatura-do-equipamento"
+  },
+  {
+    "old": "corrigir-fatura",
+    "new": "submissao-validacao-pagamento-da-fatura-do-equipamento"
+  },
+  {
+    "old": "consultar-ou-alterar-iban",
+    "new": "submissao-validacao-pagamento-da-fatura-do-equipamento"
+  },
+  {
+    "old": "rececao-instalacao-e-confirmacao-do-equipamento",
+    "new": "confirmacao-entrega-do-equipamento"
+  },
+  {
+    "old": "confirmar-a-entrega-do-equipamento",
+    "new": "confirmacao-entrega-do-equipamento"
+  },
+  {
+    "old": "troca-do-equipamento",
+    "new": "antecipacao-fim-contrato-com-renovacao"
+  },
+  {
+    "old": "assistencia-tecnica-manutencao-e-consumiveis",
+    "new": "assistencia-tecnica-manutencao-consumiveis"
+  },
+  {
+    "old": "confirmacao-da-entrega",
+    "new": "confirmacao-entrega-do-equipamento"
+  },
+  {
+    "old": "devolucao-dos-equipamentos",
+    "new": "antecipacao-fim-contrato-sem-renovacao"
+  },
+  {
+    "old": "vantagens-do-seguro-da-liquido",
+    "new": "porque-e-necessario-os-equipamentos-terem-seguro"
+  },
+  {
+    "old": "porque-e-que-e-necessario-os-equipamentos-terem-seguro",
+    "new": "porque-e-necessario-os-equipamentos-terem-seguro"
+  },
+  {
+    "old": "coberturas-e-condicoes-do-seguro-da-liquido",
+    "new": "porque-e-necessario-os-equipamentos-terem-seguro"
+  },
+  {
+    "old": "antecipacao-do-termino-do-contrato",
+    "new": "antecipacao-fim-contrato-com-renovacao"
+  },
+  {
+    "old": "cessao-de-posicao-contratual",
+    "new": "cessao-posicao-contratual"
+  },
+  {
+    "old": "valor-residual-e-valor-justo-de-mercado",
+    "new": "valor-residual-e-valor-justo-mercado"
+  },
+  {
+    "old": "resolucao-do-contrato-por-incumprimento",
+    "new": "antecipacao-fim-contrato-sem-renovacao"
+  },
+  {
+    "old": "termino-do-contrato",
+    "new": "rescisao-do-contrato"
+  },
+  {
+    "old": "consultar-detalhe-de-um-caso-reportado-e-atualizar-informacao",
+    "new": "contacte-a-nossa-equipa"
+  },
+  {
+    "old": "beneficios-fiscais-do-renting",
+    "new": "contacte-a-nossa-equipa"
+  },
+  {
+    "old": "informacoes-sobre-a-liquido",
+    "new": "dados-faturacao-documentos-empresariais"
+  },
+  {
+    "old": "documentacao-necessaria",
+    "new": "contacte-a-nossa-equipa"
+  },
+  {
+    "old": "definir-ou-alterar-imagem-de-perfil",
+    "new": "contacte-a-nossa-equipa"
+  },
+  {
+    "old": "renting-vs-leasing",
+    "new": "contacte-a-nossa-equipa"
+  },
+  {
+    "old": "atendimento-ao-cliente",
+    "new": "suporte-a-parceiros"
+  },
+  {
+    "old": "o-renting-e-uma-boa-opcao-para-pmes",
+    "new": "contacte-a-nossa-equipa"
+  },
+  {
+    "old": "o-que-e-o-renting",
+    "new": "contacte-a-nossa-equipa"
+  },
+  {
+    "old": "principais-vantagens-do-renting",
+    "new": "contacte-a-nossa-equipa"
+  },
+  {
+    "old": "alterar-dados-pessoais",
+    "new": "contacte-a-nossa-equipa"
+  },
+  {
+    "old": "alterar-a-password-da-minha-conta",
+    "new": "contacte-a-nossa-equipa"
+  },
+  {
+    "old": "solicitar-ou-pesquisar-uma-linha-de-financiamento",
+    "new": "pesquisar-linhas-financiamento-consultar-estado-dos-pedidos"
+  },
+  {
+    "old": "aplicacoes",
+    "new": "pesquisar-linhas-financiamento-consultar-estado-dos-pedidos"
+  },
+  {
+    "old": "pedido-de-reanalises",
+    "new": "pedido-reanalises"
+  },
+  {
+    "old": "setup-da-operacao",
+    "new": "como-simular-um-renting"
+  },
+  {
+    "old": "assinatura-digital",
+    "new": "assinatura-digital-do-contrato"
+  },
+  {
+    "old": "nif-invalido",
+    "new": "pesquisar-linhas-financiamento-consultar-estado-dos-pedidos"
+  },
+  {
+    "old": "calcular-o-valor-da-operacao-a-partir-do-valor-da-renda",
+    "new": "como-simular-um-renting"
+  },
+  {
+    "old": "fazer-login-ou-sair",
+    "new": "contacte-a-nossa-equipa"
+  },
+  {
+    "old": "alterar-numero-de-assinaturas-que-obrigam-a-empresa",
+    "new": "como-simular-um-renting"
+  },
+  {
+    "old": "legalidade-das-assinaturas-digitais",
+    "new": "assinatura-digital-do-contrato"
+  },
+  {
+    "old": "alterar-morada-do-cliente",
+    "new": "edicao-e-reenvio-do-contrato"
+  },
+  {
+    "old": "submeter-informacao-e-documentacao-em-falta-para-enis",
+    "new": "submissao-documentacao-adicional"
+  },
+  {
+    "old": "adicionar-um-contacto-que-obriga-a-empresa",
+    "new": "como-simular-um-renting"
+  },
+  {
+    "old": "limite-maximo-diario-de-aplicacoes-excedido",
+    "new": "pesquisar-linhas-financiamento-consultar-estado-dos-pedidos"
+  },
+  {
+    "old": "scoring-dos-clientes-e-atribuicao-de-plafond",
+    "new": "pedido-reanalises"
+  },
+  {
+    "old": "selecionar-pessoas-que-obrigam-a-empresa",
+    "new": "como-simular-um-renting"
+  },
+  {
+    "old": "enviar-um-contrato-para-assinatura",
+    "new": "assinatura-digital-do-contrato"
+  },
+  {
+    "old": "estados-da-decisao",
+    "new": "pesquisar-linhas-financiamento-consultar-estado-dos-pedidos"
+  },
+  {
+    "old": "declaracao-de-fianca",
+    "new": "como-simular-um-renting"
+  },
+  {
+    "old": "corrigir-valores-da-operacao-e-reenviar-contrato",
+    "new": "edicao-e-reenvio-do-contrato"
+  },
+  {
+    "old": "inicio-e-duracao-do-contrato",
+    "new": "inicio-e-duracao-contrato"
+  },
+  {
+    "old": "mla",
+    "new": "contacte-a-nossa-equipa"
+  },
+  {
+    "old": "consultar-um-contrato",
+    "new": "contacte-a-nossa-equipa"
+  },
+  {
+    "old": "anulacao-do-negocio",
+    "new": "contacte-a-nossa-equipa"
+  },
+  {
+    "old": "antecipacao-do-termino-do-contrato-com-renovacao",
+    "new": "antecipacao-fim-contrato-com-renovacao"
+  },
+  {
+    "old": "o-que-e-um-contrato-de-renting",
+    "new": "contacte-a-nossa-equipa"
+  },
+  {
+    "old": "antecipacao-do-termino-do-contrato-sem-renovacao",
+    "new": "antecipacao-fim-contrato-sem-renovacao"
+  },
+  {
+    "old": "resumo-de-clausulas-contratuais",
+    "new": "contacte-a-nossa-equipa"
+  },
+  {
+    "old": "renovacao-do-contrato",
+    "new": "antecipacao-fim-contrato-com-renovacao"
+  },
+  {
+    "old": "inclusao-do-equipamento-na-minha-apolice",
+    "new": "substituicao-apolice-seguro"
+  },
+  {
+    "old": "gerir-seguro",
+    "new": "substituicao-apolice-seguro"
+  },
+  {
+    "old": "participar-um-sinistro-com-o-seguro-da-liquido",
+    "new": "participar-sinistro-seguro-liquido"
+  },
+  {
+    "old": "consultar-a-duracao-do-contrato",
+    "new": "inicio-duracao-do-contrato"
+  },
+  {
+    "old": "consultar-detalhe-do-contrato",
+    "new": "gestao-contrato-portal-cliente"
+  },
+  {
+    "old": "consultar-documentacao-associada-ao-contrato",
+    "new": "gestao-contrato-portal-cliente"
+  },
+  {
+    "old": "taxa-de-juro-nos-contratos-da-Liqui-do",
+    "new": "gestao-contrato-portal-cliente"
+  },
+  {
+    "old": "consultar-historico-de-assinaturas",
+    "new": "gestao-contrato-portal-cliente"
+  },
+  {
+    "old": "consultar-a-data-de-aceitacao-do-equipamento",
+    "new": "gestao-contrato-portal-cliente"
+  },
+  {
+    "old": "consultar-a-lista-de-equipamentos-de-um-contrato",
+    "new": "gestao-contrato-portal-cliente"
+  },
+  {
+    "old": "consultar-avisos-e-tentativas-de-cobranca",
+    "new": "faturas-extrato-conta-corrente-recibos"
+  },
+  {
+    "old": "historico-de-faturacao-e-pagamento",
+    "new": "faturas-extrato-conta-corrente-recibos"
+  },
+  {
+    "old": "consultar-dados-de-faturacao",
+    "new": "faturas-extrato-conta-corrente-recibos"
+  },
+  {
+    "old": "consultar-valores-em-atraso-e-referencia-multibanco-para-pagamento",
+    "new": "regularizacao-pagamentos-em-atraso"
+  },
+  {
+    "old": "onde-e-como-consultar-faturas",
+    "new": "faturas-extrato-conta-corrente-recibos"
+  },
+  {
+    "old": "periodicidade-das-faturas-proximas-rendas",
+    "new": "faturas-extrato-conta-corrente-recibos"
+  },
+  {
+    "old": "gerir-envio-de-faturas",
+    "new": "gerir-o-envio-de-faturas"
+  },
+  {
+    "old": "plano-de-pagamento",
+    "new": "regularizacao-de-contrato-em-contencioso"
+  },
+  {
+    "old": "contrato-em-contencioso",
+    "new": "regularizacao-de-contrato-em-contencioso"
+  },
+  {
+    "old": "datas-dos-debitos-pagamentos",
+    "new": "faturas-extrato-conta-corrente-recibos"
+  },
+  {
+    "old": "consultar-ou-alterar-a-frequencia-de-pagamento-de-um-contrato",
+    "new": "faturas-extrato-conta-corrente-recibos"
+  },
+  {
+    "old": "criar-plano-de-pagamentos",
+    "new": "regularizacao-de-contrato-em-contencioso"
+  },
+  {
+    "old": "saldo-insuficiente-no-dia-da-cobranca",
+    "new": "regularizacao-pagamentos-em-atraso"
+  },
+  {
+    "old": "notas-de-credito-e-debito",
+    "new": "notas-de-credito-debito"
+  },
+  {
+    "old": "consultar-ou-alterar-o-metodo-de-pagamento-de-um-contrato",
+    "new": "gestao-contrato-portal-cliente"
+  },
+  {
+    "old": "alterar-a-data-de-debito-pagamento",
+    "new": "gestao-contrato-portal-cliente"
+  },
+  {
+    "old": "metodos-de-pagamento",
+    "new": "gestao-contrato-portal-cliente"
+  },
+  {
+    "old": "atraso-no-pagamento",
+    "new": "regularizacao-pagamentos-em-atraso"
+  },
+  {
+    "old": "consultar-faturas",
+    "new": "faturas-extrato-conta-corrente-recibos"
+  },
+  {
+    "old": "consultar-data-de-emissao-das-proximas-rendas",
+    "new": "faturas-extrato-conta-corrente-recibos"
+  }
+]

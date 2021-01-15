@@ -1,0 +1,29 @@
+{
+  "name": "liquido-cms",
+  "description": "Liqui.do's CMS",
+  "keywords": [
+    "headlessCMS"
+  ],
+  "website": "https://cms.liqui.do",
+  "repository": "https://github.com/candorRentingSA/portal",
+  "logo": "https://images.ctfassets.net/jpswt8bsmngf/6TI4uU1mbLOTFL9BbqI0K1/023261fe07e453d7ed0df69d8cdc9fea/logo.svg",
+  "stack": "heroku-18",
+  "scripts": {},
+  "env": {
+    "APP_BASE": {
+      "description": "APP_Base for heroku-buildpack-monorepo",
+      "value": "projects/cms/development",
+      "required": true
+    }
+  },
+  "addons": [],
+  "buildpacks": [
+    {
+      "url": "https://github.com/lstoll/heroku-buildpack-monorepo"
+    },
+    {
+      "url": "https://github.com/heroku/heroku-buildpack-static.git"
+    }
+  ],
+  "environments": {}
+}

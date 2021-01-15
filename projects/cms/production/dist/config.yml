@@ -1,0 +1,39 @@
+backend:
+    name: github
+    repo: candorRentingSA/portal
+    branch: master
+    base_url: https://liquido-oauth-provider.herokuapp.com
+    squash_merges: true
+    commit_messages:
+      create: "CMS: Create {{collection}} “{{slug}}”"
+      update: "CMS: Update {{collection}} “{{slug}}”"
+      delete: "CMS: Delete {{collection}} “{{slug}}”"
+      uploadMedia: "CMS: Upload “{{path}}”"
+      deleteMedia: "CMS: Delete “{{path}}”"
+
+publish_mode: editorial_workflow
+logo_url: https://images.ctfassets.net/jpswt8bsmngf/6TI4uU1mbLOTFL9BbqI0K1/023261fe07e453d7ed0df69d8cdc9fea/logo.svg
+
+media_folder: "src/assets/uploads"
+public_folder: "assets/uploads"
+
+collections:
+  - label: "Component"
+    name: "component"
+    identifier_field: id
+    extension: json
+    folder: "src/assets/content"
+    create: true
+    slug: "{{slug}}"
+    editor:
+      preview: false
+    fields:
+      - {label: "id", name: "id", widget: "string", required: true}
+      - label: Copy
+        name: copy
+        widget: list
+        required: true
+        fields:
+          - {label: "id", name: "id", widget: "string", required: true}
+          - {label: "pt-PT", name: "pt-PT", widget: "string", required: true}
+          - {label: "es-ES", name: "es-ES", widget: "string", required: true}

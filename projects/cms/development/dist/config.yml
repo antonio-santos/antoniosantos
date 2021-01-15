@@ -1,0 +1,48 @@
+backend:
+  name: github
+  repo: antonio-santos/antoniosantos
+  branch: POR-2331
+  squash_merges: true
+  commit_messages:
+    create: "CMS: Create {{collection}} “{{slug}}”"
+    update: "CMS: Update {{collection}} “{{slug}}”"
+    delete: "CMS: Delete {{collection}} “{{slug}}”"
+    uploadMedia: "CMS: Upload “{{path}}”"
+    deleteMedia: "CMS: Delete “{{path}}”"
+
+media_folder: "src/assets/uploads"
+public_folder: "assets/uploads"
+
+collections:
+  - name: "blog"
+    label: "Blog"
+    folder: "src/assets/blog"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - { label: "Layout", name: "layout", widget: "hidden", default: "blog" }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Featured Image", name: "thumbnail", widget: "image" }
+      - { label: "Rating (scale of 1-5)", name: "rating", widget: "number" }
+      - { label: "Body", name: "body", widget: "markdown" }
+
+  - label: "Component"
+    name: "component"
+    identifier_field: id
+    extension: json
+    folder: "src/assets/content"
+    create: true
+    slug: "{{slug}}"
+    editor:
+      preview: false
+    fields:
+      - { label: "id", name: "id", widget: "string", required: true }
+      - label: Copy
+        name: copy
+        widget: list
+        required: true
+        fields:
+          - { label: "id", name: "id", widget: "string", required: true }
+          - { label: "pt-PT", name: "pt-PT", widget: "string", required: true }
+          - { label: "es-ES", name: "es-ES", widget: "string", required: true }

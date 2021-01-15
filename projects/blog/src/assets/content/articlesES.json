@@ -1,0 +1,350 @@
+[
+  {
+    "old": "ingreso-validacion-y-pago-de-la-factura",
+    "new": "envio-validacion-pago-de-facturas"
+  },
+  {
+    "old": "Ingresar-metodo-de-pago-del-cliente",
+    "new": "como-calcular-las-cuotas-del-renting"
+  },
+  {
+    "old": "ingresar-iban-para-el-pago",
+    "new": "envio-validacion-pago-de-facturas"
+  },
+  {
+    "old": "ingresar-factura",
+    "new": "envio-validacion-pago-de-facturas"
+  },
+  {
+    "old": "corregir-factura",
+    "new": "envio-validacion-pago-de-facturas"
+  },
+  {
+    "old": "consultar-o-cambiar-iban",
+    "new": "envio-validacion-pago-de-facturas"
+  },
+  {
+    "old": "recepcion-instalacion-y-confirmacion-del-equipo",
+    "new": "confirmacion-de-entrega"
+  },
+  {
+    "old": "confirmacion-de-la-entrega",
+    "new": "confirmacion-de-entrega"
+  },
+  {
+    "old": "cambio-de-equipo",
+    "new": "rescision-anticipada-contrato-con-renovacion"
+  },
+  {
+    "old": "asistencia-tecnica-mantenimiento-y-consumibles",
+    "new": "asistencia-tecnica-manutencion-consumibles"
+  },
+  {
+    "old": "confirmar-la-entrega-del-equipo",
+    "new": "confirmacion-de-entrega"
+  },
+  {
+    "old": "devolucion-de-los-equipos",
+    "new": "rescision-anticipada-contrato-sin-renovacion"
+  },
+  {
+    "old": "ventajas-del-seguro-de-Liqui-do",
+    "new": "por-que-es-necesario-contratar-un-seguro"
+  },
+  {
+    "old": "por-que-los-equipos-necesitan-tener-seguro",
+    "new": "por-que-es-necesario-contratar-un-seguro"
+  },
+  {
+    "old": "coberturas-y-condiciones-del-seguro-de-liqui-do",
+    "new": "por-que-es-necesario-contratar-un-seguro"
+  },
+  {
+    "old": "anticipacion-del-termino-del-contrato",
+    "new": "rescision-anticipada-contrato-con-renovacion"
+  },
+  {
+    "old": "cesion-de-posicion-contractual",
+    "new": "cesion-posicion-contractual"
+  },
+  {
+    "old": "valor-residual-y-valor-razonable-de-mercado",
+    "new": "valor-residual-valor-razonable-de-mercado"
+  },
+  {
+    "old": "resolucion-del-contrato-por-incumplimiento",
+    "new": "rescision-anticipada-contrato-sin-renovacion"
+  },
+  {
+    "old": "termino-del-contrato",
+    "new": "rescision-del-contrato"
+  },
+  {
+    "old": "consultar-detalle-de-un-caso-tramitado-y-actualizar-informacion",
+    "new": "contacte-con-nuestro-equipo"
+  },
+  {
+    "old": "beneficios-fiscales-del-renting",
+    "new": "contacte-con-nuestro-equipo"
+  },
+  {
+    "old": "informacion-sobre-liqui-do",
+    "new": "datos-facturacion-documentos-empresariales"
+  },
+  {
+    "old": "documentacion-necesaria",
+    "new": "contacte-con-nuestro-equipo"
+  },
+  {
+    "old": "definir-o-cambiar-imagen-de-perfil",
+    "new": "contacte-con-nuestro-equipo"
+  },
+  {
+    "old": "atencion-al-cliente",
+    "new": "soporte-para-socios"
+  },
+  {
+    "old": "el-renting-es-una-buena-opcion-para-las-pymes",
+    "new": "contacte-con-nuestro-equipo"
+  },
+  {
+    "old": "que-es-el-renting",
+    "new": "contacte-con-nuestro-equipo"
+  },
+  {
+    "old": "principales-ventajas-del-renting",
+    "new": "contacte-con-nuestro-equipo"
+  },
+  {
+    "old": "cambiar-datos-personales",
+    "new": "contacte-con-nuestro-equipo"
+  },
+  {
+    "old": "recuperar-contrasena",
+    "new": "contacte-con-nuestro-equipo"
+  },
+  {
+    "old": "solicitar-o-buscar-una-linea-de-financiamiento",
+    "new": "buscar-lineas-consultar-estado-solicitudes"
+  },
+  {
+    "old": "aplicaciones",
+    "new": "buscar-lineas-consultar-estado-solicitudes"
+  },
+  {
+    "old": "pedido-de-rehacer-el-analisis",
+    "new": "solicitud-reanalisis"
+  },
+  {
+    "old": "configuracion-de-la-operacion",
+    "new": "como-calcular-las-cuotas-del-renting"
+  },
+  {
+    "old": "firma-digital",
+    "new": "firma-digital-del-contrato"
+  },
+  {
+    "old": "cif-invalido",
+    "new": "buscar-lineas-consultar-estado-solicitudes"
+  },
+  {
+    "old": "consulte-el-valor-de-la-operacion-del-valor-de-la-renta",
+    "new": "como-calcular-las-cuotas-del-renting"
+  },
+  {
+    "old": "iniciar-o-cerrar-sesion",
+    "new": "contacte-con-nuestro-equipo"
+  },
+  {
+    "old": "cambiar-numero-de-firmas-que-obligan-a-la-empresa",
+    "new": "como-calcular-las-cuotas-del-renting"
+  },
+  {
+    "old": "legalidad-de-las-firmas-digitales",
+    "new": "firma-digital-del-contrato"
+  },
+  {
+    "old": "Mmodificar-domicilio-del-cliente",
+    "new": "hmodificacion-y-reenvio-del-contrato"
+  },
+  {
+    "old": "enviar-informacion-y-documentacion-que-falta-para-autonomo",
+    "new": "envio-documentacion-adicional"
+  },
+  {
+    "old": "agregar-un-contacto-que-obliga-a-la-empresa",
+    "new": "como-calcular-las-cuotas-del-renting"
+  },
+  {
+    "old": "limite-maximo-diario-de-aplicaciones-excedido",
+    "new": "buscar-lineas-consultar-estado-solicitudes"
+  },
+  {
+    "old": "scoring-de-los-clientes-y-asignacion-de-limite",
+    "new": "solicitud-reanalisis"
+  },
+  {
+    "old": "seleccionar-personas-que-obligan-a-la-empresa",
+    "new": "como-calcular-las-cuotas-del-renting"
+  },
+  {
+    "old": "enviar-un-contrato-para-firmar",
+    "new": "firma-digital-del-contrato"
+  },
+  {
+    "old": "estados-de-la-decision",
+    "new": "buscar-lineas-consultar-estado-solicitudes"
+  },
+  {
+    "old": "declaracion-de-fianza",
+    "new": "como-calcular-las-cuotas-del-renting"
+  },
+  {
+    "old": "corregir-valores-de-operacion-y-reenviar-contrato",
+    "new": "modificacion-y-reenvio-del-contrato"
+  },
+  {
+    "old": "inicio-y-duracion-del-contrato",
+    "new": "inicio-y-duracion-contrato"
+  },
+  {
+    "old": "mla",
+    "new": "contacte-con-nuestro-equipo"
+  },
+  {
+    "old": "consultar-un-contrato",
+    "new": "contacte-con-nuestro-equipo"
+  },
+  {
+    "old": "anulacion-del-negocio",
+    "new": "contacte-con-nuestro-equipo"
+  },
+  {
+    "old": "anticipacion-del-termino-del-contrato-con-renovacion",
+    "new": "rescision-anticipada-contrato-con-renovacion"
+  },
+  {
+    "old": "que-es-un-contrato-de-renting",
+    "new": "contacte-con-nuestro-equipo"
+  },
+  {
+    "old": "anticipacion-del-termino-del-contrato-sin-renovacion",
+    "new": "rescision-anticipada-contrato-sin-renovacion"
+  },
+  {
+    "old": "resumen-de-clausulas-contractuales",
+    "new": "contacte-con-nuestro-equipo"
+  },
+  {
+    "old": "renovacion-del-contrato",
+    "new": "rescision-anticipada-contrato-con-renovacion"
+  },
+  {
+    "old": "inclusion-del-equipo-en-mi-poliza",
+    "new": "sustitucion-poliza-de-seguro"
+  },
+  {
+    "old": "gestionar-seguro",
+    "new": "sustitucion-poliza-de-seguro"
+  },
+  {
+    "old": "participar-un-siniestro-con-el-seguro-de-liqui-do",
+    "new": "siniestro-con-el-seguro-de-liquido"
+  },
+  {
+    "old": "consultar-la-duracion-del-contrato",
+    "new": "inicio-duracion-del-contrato"
+  },
+  {
+    "old": "ver-detalle-del-contrato",
+    "new": "gestion-contrato-portal-cliente"
+  },
+  {
+    "old": "consultar-documentacion-asociada-al-contrato",
+    "new": "gestion-contrato-portal-cliente"
+  },
+  {
+    "old": "tasa-de-interes-en-los-contratos-de-liqui-do",
+    "new": "gestion-contrato-portal-cliente"
+  },
+  {
+    "old": "consultar-historial-de-firmas",
+    "new": "gestion-contrato-portal-cliente"
+  },
+  {
+    "old": "consultar-la-fecha-de-aceptacion-del-equipo",
+    "new": "gestion-contrato-portal-cliente"
+  },
+  {
+    "old": "consultar-la-lista-de-equipos-de-un-contrato",
+    "new": "gestion-contrato-portal-cliente"
+  },
+  {
+    "old": "consultar-avisos-e-intentos-de-cobro",
+    "new": "facturas-extracto-cuenta-recibos"
+  },
+  {
+    "old": "historial-de-facturacion-y-pago",
+    "new": "facturas-extracto-cuenta-recibos"
+  },
+  {
+    "old": "consultar-datos-de-facturacion",
+    "new": "facturas-extracto-cuenta-recibos"
+  },
+  {
+    "old": "donde-y-como-consultar-facturas",
+    "new": "facturas-extracto-cuenta-recibos"
+  },
+  {
+    "old": "periodicidad-de-las-facturas-proximas-cuotas",
+    "new": "facturas-extracto-cuenta-recibos"
+  },
+  {
+    "old": "gestionar-envio-de-facturas",
+    "new": "regularizacion-de-pagos-atrasados"
+  },
+  {
+    "old": "plan-de-pago",
+    "new": "regularizacion-de-contratos-en-litigio"
+  },
+  {
+    "old": "contrato-en-contencioso",
+    "new": "regularizacion-de-contratos-en-litigio"
+  },
+  {
+    "old": "fechas-de-los-debitos-pagos",
+    "new": "facturas-extracto-cuenta-recibos"
+  },
+  {
+    "old": "consultar-o-cambiar-la-frecuencia-de-pago-de-un-contrato",
+    "new": "facturas-extracto-cuenta-recibos"
+  },
+  {
+    "old": "saldo-insuficiente-el-dia-de-cobro",
+    "new": "regularizacion-de-pagos-atrasados"
+  },
+  {
+    "old": "notas-de-credito-y-debito",
+    "new": "notas-de-credito-y-debito-liquido"
+  },
+  {
+    "old": "que-es-un-adeudo-directo-unico",
+    "new": "en-que-consiste-la-domiciliacion-bancaria-puntual"
+  },
+  {
+    "old": "formas-de-pago",
+    "new": "gestion-contrato-portal-cliente"
+  },
+  {
+    "old": "retraso-en-el-pago",
+    "new": "regularizacion-de-pagos-atrasados"
+  },
+  {
+    "old": "consultar-facturas",
+    "new": "facturas-extracto-cuenta-recibos"
+  },
+  {
+    "old": "consultar-fecha-de-emision-de-las-proximas-cuotas",
+    "new": "facturas-extracto-cuenta-recibos"
+  }
+]
