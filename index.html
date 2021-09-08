@@ -116,6 +116,52 @@
         cursor: pointer;
         text-decoration: underline;
       }
+
+      .link-each-image,
+      .page-item-wrap {
+        border-radius: 8px;
+      }
+      .page-item-wrap {
+        margin: 16px 0;
+      }
+      .page-item-wrap {
+        transition: transform 0.15s cubic-bezier(0.17, 0.67, 0.29, 2.71) 0s;
+      }
+      .page-item {
+        border: 0px solid transparent;
+        background: #212121;
+        border-radius: 8px;
+        box-shadow: 0px 6px 14px -6px rgb(24 39 75 / 12%),
+          0px 10px 32px -4px rgb(24 39 75 / 10%),
+          inset 0px 0px 2px 1px rgb(255 255 255 / 5%);
+      }
+      .page-item {
+        box-sizing: border-box;
+        position: absolute;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        z-index: -1;
+      }
+      .page-item-each {
+        color: #ffffff;
+        font-family: "Inter", sans-serif;
+        font-size: 16px;
+        font-weight: 400;
+        text-transform: none;
+        border-radius: 8px;
+        min-height: 60px;
+      }
+      .page-item-each {
+        text-decoration: none;
+        overflow: hidden;
+        z-index: 10;
+        box-sizing: border-box;
+      }
+      .py-10 {
+        padding: 10px;
+      }
     </style>
   </head>
 
@@ -183,6 +229,21 @@
                 fill="white"
               ></path>
             </svg>
+          </div>
+        </div>
+        <div class="mt-24">
+          <div class="page-item-wrap relative">
+            <div class="page-item flex-both-center absolute"></div>
+            <a
+              target="_blank"
+              rel="noopener nofollow"
+              class="page-item-each py-10 flex-both-center"
+              href="./assets/Resume-António-Santos.pdf"
+              data-id="100518"
+              data-type="page_item"
+            >
+              <span class="item-title text-center">Resume</span>
+            </a>
           </div>
         </div>
       </div>
