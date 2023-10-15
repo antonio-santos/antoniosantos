@@ -7,8 +7,7 @@ import {
 } from "react-icons/ai/index.js";
 import { BsTelegram } from "react-icons/bs/index.js";
 import { MdEmail } from "react-icons/md/index.js";
-
-import { ProfileProps } from "../page";
+import { ProfileProps } from "./Profile";
 
 interface Props {
   profile: ProfileProps;
