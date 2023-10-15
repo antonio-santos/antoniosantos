@@ -8,7 +8,7 @@ import {
 import { BsTelegram } from "react-icons/bs/index.js";
 import { MdEmail } from "react-icons/md/index.js";
 
-import { ProfileProps } from "./page";
+import { ProfileProps } from "../page";
 
 interface Props {
   profile: ProfileProps;
@@ -21,7 +21,8 @@ const SocialLink: React.FC<{
 }> = ({ href, label, icon }) => (
   <Link isExternal aria-label={label} href={href}>
     <Icon
-      display="block"
+      color="gray.400"
+      // display="block"
       transition="color 0.2s"
       boxSize="12"
       _hover={{ color: "gray.600" }}
@@ -35,7 +36,7 @@ const SocialLinks: React.FC<Props> = ({
   profile: { name, github, linkedin, twitter, telegram, email },
 }) => {
   return (
-    <HStack>
+    <HStack mb={-4}>
       {github && (
         <SocialLink
           href={`https://github.com/${github}`}
