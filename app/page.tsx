@@ -1,6 +1,6 @@
 import { HStack, VStack } from "@chakra-ui/react";
-import Footer from "./Footer";
-import Profile from "./Profile/Profile";
+import Footer from "./components/Footer";
+import Profile from "./components/Profile/Profile";
 
 export default function Home() {
   return (
