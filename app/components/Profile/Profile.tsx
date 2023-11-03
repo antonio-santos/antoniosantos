@@ -16,7 +16,8 @@ import * as json_profile from "./profile.json";
 export interface ProfileProps {
   avatar: string;
   name: string;
-  description?: string;
+  professionalDescription?: string;
+  personalDescription?: string;
   currentJob?: {
     description: string;
     client: string;
@@ -36,7 +37,7 @@ const Profile: React.FC<Props> = () => {
   return (
     <Card bgColor="gray.800" borderRadius="2xl" maxWidth={500} m={10}>
       <CardHeader>
-        <HStack spacing={5}>
+        <HStack spacing={5} alignItems="flex-start">
           {profile.github && (
             <Avatar size="xl" name={profile.name} src={profile.avatar} />
           )}
@@ -54,9 +55,14 @@ const Profile: React.FC<Props> = () => {
         </HStack>
       </CardHeader>
       <CardBody borderTopWidth="1px" borderTopColor="gray.700">
-        <Text color="white" fontSize="md">
-          {profile.description}
-        </Text>
+        <VStack spacing={5}>
+          <Text color="white" fontSize="md">
+            {profile.professionalDescription}
+          </Text>
+          <Text color="white" fontSize="md">
+            {profile.personalDescription}
+          </Text>
+        </VStack>
       </CardBody>
       <CardFooter borderTopWidth="1px" borderTopColor="gray.700">
         <SocialLinks profile={profile} />

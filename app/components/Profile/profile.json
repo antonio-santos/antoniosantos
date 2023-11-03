@@ -1,7 +1,8 @@
 {
   "avatar": "https://github.com/antonio-santos.png",
   "name": "António Santos",
-  "description": "I'm a Senior Frontend Engineer with more than 10 years of experience working with web technologies. I'm passionate about building high-quality software and I'm always looking for new challenges.",
+  "professionalDescription": "I'm a Senior Frontend Engineer with 10+ years of experience working with web technologies. I'm passionate about open-source projects, building high-quality software and I'm always looking for new challenges.",
+  "personalDescription": "I have a 3 y/o son, André, who has been my best teacher. In my spare time, I like to pratice sports, especially calisthenics and tennis. Being a vegan brought me interest to themes such as nutrition and health. Minimalism guides me to simplify all aspects of life, to make room for what truly matters.",
   "currentJob": {
     "description": "Senior Frontend Engineer",
     "client": "AbstractSDK"
