@@ -1,4 +1,4 @@
-import { HStack, Icon, Link } from "@chakra-ui/react";
+import { HStack } from "@chakra-ui/react";
 import React from "react";
 import {
   AiFillGithub,
@@ -7,6 +7,7 @@ import {
 } from "react-icons/ai/index.js";
 import { BsTelegram } from "react-icons/bs/index.js";
 import { MdEmail } from "react-icons/md/index.js";
+import LinkIcon from "../LinkIcon";
 import { ProfileProps } from "./Profile";
 
 interface Props {
@@ -18,24 +19,14 @@ const SocialLink: React.FC<{
   label: string;
   icon: React.ReactNode;
 }> = ({ href, label, icon }) => (
-  <Link isExternal aria-label={label} href={href}>
-    <Icon
-      color="gray.400"
-      // display="block"
-      transition="color 0.2s"
-      boxSize="12"
-      _hover={{ color: "gray.600" }}
-    >
-      {icon}
-    </Icon>
-  </Link>
+  <LinkIcon href={href} label={label} icon={icon} size={12} />
 );
 
 const SocialLinks: React.FC<Props> = ({
   profile: { name, github, linkedin, twitter, telegram, email },
 }) => {
   return (
-    <HStack mb={-4}>
+    <HStack spacing={4}>
       {github && (
         <SocialLink
           href={`https://github.com/${github}`}
