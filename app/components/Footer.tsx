@@ -41,7 +41,7 @@ const Footer: React.FC<Props> = () => (
         size={8}
       />
       <Text color="gray" mr={2}>
-        and deployed on
+        and hosted on
       </Text>
       <LinkIcon
         href={`https://vercel.com/`}
