@@ -59,9 +59,9 @@ const Profile: React.FC<Props> = () => {
           <Text color="white" fontSize="md">
             {profile.professionalDescription}
           </Text>
-          <Text color="white" fontSize="md">
+          {/* <Text color="white" fontSize="md">
             {profile.personalDescription}
-          </Text>
+          </Text> */}
         </VStack>
       </CardBody>
       <CardFooter borderTopWidth="1px" borderTopColor="gray.700">
