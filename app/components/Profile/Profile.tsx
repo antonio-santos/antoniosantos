@@ -38,7 +38,7 @@ const Profile: React.FC<Props> = () => {
     <Card bgColor="gray.800" borderRadius="2xl" maxWidth={500} m={10}>
       <CardHeader>
         <HStack spacing={5} alignItems="flex-start">
-          {profile.github && (
+          {profile.avatar && (
             <Avatar size="xl" name={profile.name} src={profile.avatar} />
           )}
           <VStack alignItems="flex-start">
